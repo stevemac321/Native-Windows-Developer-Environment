@@ -151,6 +151,7 @@ Or install via Chocolatey (if you have it):
 Verify installation:
 
     vim --version
+My .vimrc is checked into this repository as _vimrc.  So rename it back to .vimrc and put it in your home directory (C:\Users\<your user name>).
 
 ## 8. Install Universal Ctags
 
