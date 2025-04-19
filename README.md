@@ -83,12 +83,6 @@ Download and install VSCode from:
     https://code.visualstudio.com/
 
 Install the following extensions:
-
-    code --install-extension rust-lang.rust-analyzer  
-    code --install-extension ms-vscode.cpptools  
-    code --install-extension vadimcn.vscode-lldb
-
-Alternatively, use the Extensions panel in the editor and search for:
 - "C/C++"
 - "Rust Analyzer"
 - "CodeLLDB"
