@@ -93,6 +93,11 @@ Alternatively, use the Extensions panel in the editor and search for:
 - "Rust Analyzer"
 - "CodeLLDB"
 
+To add it permanently to your PATH:
+
+    setx PATH "%PATH%;C:\Users\<YourUser>\AppData\Local\Programs\Microsoft VS Code\bin"
+
+Replace `<YourUser>` with your actual Windows username.
 
 ## 5. Install Visual Studio Community Edition
 
