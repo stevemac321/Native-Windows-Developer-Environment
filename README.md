@@ -157,6 +157,7 @@ Verify installation:
 Download a Windows release of Universal Ctags from:
 
     https://github.com/universal-ctags/ctags-win32/releases
+    choose the one with "clang" in the name.
 
 Extract the files to a folder (e.g., C:\Tools\ctags) and add that folder to your system PATH.
 
