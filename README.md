@@ -169,7 +169,7 @@ Verify:
 
 Download a Windows build of cscope (e.g., scopedb) from:
 
-    https://github.com/andmarti1424/scopedb/releases
+    https://www.softpedia.com/get/Programming/Other-Programming-Files/Cscope-for-Windows.shtml
 
 Extract and place the binary in a directory in your PATH.
 
